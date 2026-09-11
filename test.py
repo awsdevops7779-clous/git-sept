@@ -1,4 +1,4 @@
-printHello this is test")
+print("Hello this is test")
 
 
-printHello this is test2")
+print("Hello this is test2")
